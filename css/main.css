@@ -1,0 +1,59 @@
+img {
+  width: 100%;
+}
+
+.anton {
+  font-family: 'Anton', sans-serif;
+}
+
+.ESP-header {
+  position: relative;
+}
+
+.center-fix {
+  min-height: 300px;
+}
+
+.investment {
+  width: 150px;
+  background-color: gray;
+  float: left;
+  margin-left: 15px;
+}
+
+.helper {
+  display: inline-block;
+  height: 150px;
+  vertical-align: middle;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.logopic {
+  vertical-align: middle;
+}
+
+.topitem {
+  margin-top: 30px;
+}
+
+.ESP-title {
+  position: absolute;
+  top: 33%;
+  left: 25%;
+  width: 50%;
+  height: auto;
+  text-align: center;
+  font-size: 2.5em;
+  color: white;
+  background-color: rgb(29,29,29);
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 900px) {
+  .center-fix {
+    height: 300px;
+    width: 906px;
+  }
+}
