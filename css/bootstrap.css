@@ -250,8 +250,6 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-  margin-left: auto; <!--MLD
-  margin-right: auto; <!--MLD
 }
 .img-rounded {
   border-radius: 6px;
