@@ -24,6 +24,24 @@ body {
   position: relative;
 }
 
+.navbar {
+  width: 100%;
+  background-color: rgb(29,29,29);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  color: white;
+}
+
+.navbar a {
+  color: white;
+}
+
+.navbar span {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
 .investment {
   background-color: white;
   margin-bottom: 0.5%;
